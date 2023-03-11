@@ -30,7 +30,7 @@ const table = `<table class="table-auto w-full"><tr>
 <th class="px-6 py-3">Email</th>
 <th class="px-6 py-3">Password</th>
 <th class="px-6 py-3">Dob</th>
-<th class="px-6 py-3">Accepted terms</th>
+<th class="px-6 py-3">Accepted terms?</th>
 </tr>${tableEntries}</table>`;
 
 let details = document.getElementById ("user-entries");
